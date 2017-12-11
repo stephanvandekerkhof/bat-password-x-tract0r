@@ -1,4 +1,4 @@
-# bat-password-x-tract0r
+# bat-password-x-tract0r [P-x-T]
 Simple yet useful example of how to parse every line of every file in every subdirectory to retrieve data formatted a certain way.
 
 Using linux's UNIQ it de-duplicates data and shows what new entries have been added on each file it processes.
