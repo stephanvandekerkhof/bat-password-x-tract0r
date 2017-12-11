@@ -5,7 +5,7 @@ TITLE Password x-tract0r v0.04
 setlocal enabledelayedexpansion
 echo Password x-tract0r v0.04&&echo.
 set STARTDATETIME=%DATE% %TIME%
-set SPEECHMODE=1
+set SPEECHMODE=0
 
 
 for /r "%CD%" %%a IN (test-data\*) do (
